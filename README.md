@@ -19,7 +19,15 @@ Packages used:
 Current verion: 1.0.5. Last updated February 4, 2019.
 
 ## Screenshots
-![](https://github.com/jgemerson/GHCEAR_Dashboard/blob/master/Dashboard%20for%20github/Screenshots/full.JPG)
+![](https://github.com/jgemerson/ModelClearinghouse/blob/master/Screenshots/Filters.JPG)
+_________________
+![](https://github.com/jgemerson/ModelClearinghouse/blob/master/Screenshots/Table.JPG)
+_________________
+![](https://github.com/jgemerson/ModelClearinghouse/blob/master/Screenshots/Dropdown.png)
+_________________
+![](https://github.com/jgemerson/ModelClearinghouse/blob/master/Screenshots/OSF.JPG)
+_________________
+![](https://github.com/jgemerson/ModelClearinghouse/blob/master/Screenshots/OSF%20project.JPG)
 _________________
 
 
