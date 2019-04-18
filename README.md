@@ -9,6 +9,8 @@ This R Shiny App serves as a front-end search function for health economics and 
 ## Links and Access
 ### [Model Clearinghouse](https://cevr.shinyapps.io/Clearinghouse/)
 
+Author data have been omitted from the GitHub upload.
+
 ## Code structure
 Built with [R Shiny](https://shiny.rstudio.com/) and [R Markdown](https://rmarkdown.rstudio.com/) via [R Studio IDE](https://www.rstudio.com/).
 
