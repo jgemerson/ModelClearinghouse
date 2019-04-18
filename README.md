@@ -3,7 +3,8 @@
 ## Background
 The Open-Source Model Clearinghouse is a source code repository for computer simulations developed to support original economic assessments of health interventions.  Our goals include improving model credibility, increasing research efficiency, and facilitating adherence to standards calling for open disclosure of scientific software. 
 
-This R Shiny App serves as an analytic tool and data visualization creator for the database to help researchers and policymakers access evidence for cost-effective health interventions primarily focusing on low- and middle-income (LMIC) settings. It integrates both reactive R Shiny features as well as R Markdown functionality for downloadable reports.
+This R Shiny App serves as a front-end search function for health economics and outcomes research models submitted to the Clearinghouse. Model information is stored in a database managed by [CEVR](https://cevr.tuftsmedicalcenter.org/) and model code hosted via project pages on [Open Science Framework](https://osf.io/mdk2h/).
+
 
 ## Links and Access
 ### [Model Clearinghouse](https://cevr.shinyapps.io/Clearinghouse/)
