@@ -19,7 +19,7 @@ Packages used:
  - [DT](https://rstudio.github.io/DT/)
 
 ## Version
-Current verion: 1.0.5. Last updated February 4, 2019.
+Current version: 1.0.5. Last updated February 4, 2019.
 
 ## Screenshots
 ![](https://github.com/jgemerson/ModelClearinghouse/blob/master/Screenshots/Filters.JPG)
